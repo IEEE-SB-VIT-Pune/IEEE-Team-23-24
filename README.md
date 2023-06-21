@@ -66,3 +66,5 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Somrath Bisen](https://www.linkedin.com/in/somrath-bisen-5549441aa/ "Open LinkedIn"). PR
 
+[Atharva Ansingkar](https://www.linkedin.com/in/atharva-ansingkar-793134142/ "Open Linkedin") Video Editing
+
