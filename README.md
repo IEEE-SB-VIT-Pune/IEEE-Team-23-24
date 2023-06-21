@@ -66,3 +66,5 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Somrath Bisen](https://www.linkedin.com/in/somrath-bisen-5549441aa/ "Open LinkedIn"). PR
 [Shripad Parbhanikar](https://www.linkedin.com/in/shripad-parbhanikar-954a38259/ "Open LinkedIn") Social Media
+
+[Apurva Kota](https://www.linkedin.com/in/apurva-kota-714084252/ "Open LinkedIn") Social Media
