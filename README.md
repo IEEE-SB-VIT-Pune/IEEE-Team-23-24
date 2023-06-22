@@ -72,4 +72,7 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Apurva Kota](https://www.linkedin.com/in/apurva-kota-714084252/ "Open LinkedIn") Social Media
 
+[Harshada Deshingkar](https://www.linkedin.com/in/harshada-deshingkar-7330a0248/ "Open Linkedin") Management
+
 [Shreyas Nagarkar](https://www.linkedin.com/in/shreyas-nagarkar-156237280/ "Open LinkedIn") Finance
+
