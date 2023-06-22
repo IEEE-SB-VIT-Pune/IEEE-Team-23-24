@@ -72,3 +72,4 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Apurva Kota](https://www.linkedin.com/in/apurva-kota-714084252/ "Open LinkedIn") Social Media
 
+[Shreyas Nagarkar](https://www.linkedin.com/in/shreyas-nagarkar-156237280/ "Open LinkedIn") Finance
