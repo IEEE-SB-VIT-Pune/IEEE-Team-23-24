@@ -78,4 +78,5 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Shreyas Nagarkar](https://www.linkedin.com/in/shreyas-nagarkar-156237280/ "Open LinkedIn") Finance
 
+[Qusai Shergardwala](https://www.linkedin.com/in/qusai-shergardwala-8a6404259/ "Open LinkedIn") PR
 
