@@ -80,3 +80,5 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Qusai Shergardwala](https://www.linkedin.com/in/qusai-shergardwala-8a6404259/ "Open LinkedIn") PR
 
+[Devashish Kanhere](https://www.linkedin.com/in/devashish-kanhere/ "Open Linkedin") Technical
+
