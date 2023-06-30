@@ -82,3 +82,4 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Devashish Kanhere](https://www.linkedin.com/in/devashish-kanhere/ "Open Linkedin") Technical
 
+[Sarvesh Bajare](https://www.linkedin.com/in/sarvesh-bajare-bb181a252/ "Open LinkedIn") Technical
