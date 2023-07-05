@@ -83,3 +83,5 @@ Format :- [firstname-lastname](linkedin profile link)
 [Devashish Kanhere](https://www.linkedin.com/in/devashish-kanhere/ "Open Linkedin") Technical
 
 [Sarvesh Bajare](https://www.linkedin.com/in/sarvesh-bajare-bb181a252/ "Open LinkedIn") Technical
+
+[Parth Petkar](https://www.linkedin.com/in/parth-petkar-7a6a9025b/ "Open LinkedIn") PR
